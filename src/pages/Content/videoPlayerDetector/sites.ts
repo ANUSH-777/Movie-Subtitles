@@ -7,6 +7,7 @@ const sites = {
   twitch: 'www.twitch.tv',
   dailymotion: 'www.dailymotion.com',
   tubi: 'tubitv.com',
+  nites: 'https://w1.nites.is/'
   default: 'default',
 };
 
